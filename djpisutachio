@@ -1,5 +1,13 @@
 aaaaa
 takaiyasuhiro
+<html>
+  <head>
+    <title>高井の部屋</title>
+  </head>
+  <body>
+  <h1>高井康宏</h1>
+  </body>
+</html>
 <?php
 //------------------------------------------------------------------------------
 //    CommentPP, Thread type bulletin board system.
